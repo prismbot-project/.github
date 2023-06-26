@@ -32,8 +32,9 @@ We recommend that you read our terms of service and privacy policy. Project Pris
 
 ### Contact Us
 rablonkk (Project Developer)
-Discord: [@rablonkk](https://discord.com/users/523783344979443712)
-YouTube: [@rablonkk](https://youtube.com/@rablonkk)
-Github: [rablonkk](https://github.com/rablonkk)
+
+- Discord: [@rablonkk](https://discord.com/users/523783344979443712)
+- YouTube: [@rablonkk](https://youtube.com/@rablonkk)
+- Github: [rablonkk](https://github.com/rablonkk)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/523783344979443712)](https://discord.com/users/523783344979443712)
